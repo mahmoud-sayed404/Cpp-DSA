@@ -1,4 +1,3 @@
-
 📌 Data Structures & Algorithms in C++
 This repository contains my implementations of Data Structures and Algorithms (DSA) using C++. The goal of this repo is to practice and understand core concepts like searching, sorting, and linked lists, and I will keep adding more topics later.
 
@@ -48,6 +47,26 @@ A dynamic stack implementation using arrays in C++.
 
 #### About:
 The stack is implemented using a dynamic array. When the stack reaches its capacity, it automatically doubles its size to accommodate more elements.
+
+---
+
+### 📚 Stack (Linked List Implementation)
+A stack implementation using a singly linked list in C++.
+
+#### Features:
+- Push (insert element at top)  
+- Pop (remove top element)  
+- Peek (view top element)  
+- Check if stack is empty  
+- Get size of the stack  
+- Display stack elements  
+- Automatic memory management using destructor  
+
+#### About:
+The stack is implemented using a linked list, where each node contains data and a pointer to the next node.  
+The top of the stack is always represented by the head of the linked list.  
+
+This implementation avoids fixed size limitations and allows dynamic memory allocation.
 
 ---
 
