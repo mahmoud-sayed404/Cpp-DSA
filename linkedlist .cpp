@@ -225,8 +225,7 @@ int main()
 
     l1.Display();
 
-    l1.search(3);
-    l1.search(100);
+
 
     return 0;
 }
