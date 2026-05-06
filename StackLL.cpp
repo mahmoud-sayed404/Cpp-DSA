@@ -95,8 +95,6 @@ int main()
 
     s1.display();
     s1.Pop();
-    s1.Pop();
-    s1.Pop();
 
     s1.display();
     cout << s1.Peek() << "\n";
