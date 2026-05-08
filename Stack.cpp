@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 class Stack
 {
 private:
@@ -106,12 +105,12 @@ int main()
     s.Push(10);
     s.Push(20);
     s.Push(30);
-    s.Push(40); // هيعمل Resize
+    s.Push(40);
 
     s.Display();
 
-    cout << "Pop: " << s.Pop() << endl;
-    cout << "Top: " << s.Peek() << endl;
+    cout << "Pop: " << s.Pop() << "\n";
+    cout << "Top: " << s.Peek() << "\n";
 
     s.Display();
 
