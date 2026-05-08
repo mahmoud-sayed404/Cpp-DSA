@@ -210,9 +210,8 @@ int main()
 
     l1.insertAtEnd(1);
     l1.insertAtEnd(2);
-    l1.insertAtEnd(3);
-    l1.insertAtEnd(4);
-    l1.insertAtEnd(5);
+
+
     l1.Display();
 
     cout << "Deleted value at end: " << l1.deleteAtEnd() << "\n";
