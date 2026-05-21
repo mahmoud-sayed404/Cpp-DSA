@@ -22,7 +22,7 @@ This repository contains my implementations of Data Structures and Algorithms (D
 
 # Implemented Data Structures
 
-## 🔗 Singly Linked List (SLL)
+##  Singly Linked List (SLL)
 Implemented a full Singly Linked List with:
 - Insert at beginning  
 - Insert at end  
@@ -36,7 +36,7 @@ Implemented a full Singly Linked List with:
 
 ---
 
-## 📚 Stack (Array Implementation)
+## Stack (Array Implementation)
 A dynamic stack implementation using arrays in C++.
 
 ### Features:
